@@ -1,0 +1,1 @@
+dx --dex --output =aaa.dex  aaa.class
