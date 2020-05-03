@@ -1,5 +1,5 @@
 so中执行js, 可以参考此仓库
-[batchJs2Dex](https://github.com/snailuncle/autojsNativeJs)
+[autojsNativeJs](https://github.com/snailuncle/autojsNativeJs)
 
 webpack打包多个autojs的js文件为一个js文件, 可以参考此仓库
 [webpack-autojs](https://github.com/snailuncle/webpack-autojs)
