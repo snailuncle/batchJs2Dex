@@ -23,3 +23,6 @@ webpack打包多个autojs的js文件为一个js文件, 可以参考此仓库
 
 ## 备注2
 如果没有安装as, 可以使用dx文件夹中的bat命令, 将class转为dex
+
+## 注意
+如果js中有let, 请使用var代替, 否则报错.
