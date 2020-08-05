@@ -23,3 +23,9 @@ webpack打包多个autojs的js文件为一个js文件, 可以参考此仓库
 
 ## 注意
 如果js中有let, 请使用var代替, 否则报错.
+
+## 如果class不能转dex, 看看下面的帖子
+简书: http://www.jianshu.com/p/77db2ea8098f
+CSDN博客: http://blog.csdn.net/qq_32115439/article/details/79307325
+GitHub博客: http://lioil.win/2018/02/10/Java-JDK9-class-path.html
+Coding博客: http://c.lioil.win/2018/02/10/Java-JDK9-class-path.html
